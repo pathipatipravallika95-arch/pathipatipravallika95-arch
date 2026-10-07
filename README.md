@@ -1,5 +1,25 @@
 # Hi, I'm Pravallika 👋
+<table>
+<tr>
+<td width="180">
+
 <img src="image.jpeg" width="150">
+
+</td>
+
+<td>
+
+<h2>Hi, I'm Pravallika 👋</h2>
+
+<p>
+Aspiring Data Engineer<br>
+Python | SQL | PySpark | AWS | Azure<br>
+Passionate about Data Engineering and Analytics
+</p>
+
+</td>
+</tr>
+</table> 
 ### Aspiring Data Engineer | Python | SQL | PySpark | AWS | Azure
 
 Welcome to my GitHub profile! I am an entry-level Data Engineering
