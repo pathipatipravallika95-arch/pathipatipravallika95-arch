@@ -20,7 +20,6 @@ Passionate about Data Engineering and Analytics
 </td>
 </tr>
 </table> 
-### Aspiring Data Engineer | Python | SQL | PySpark | AWS | Azure
 
 Welcome to my GitHub profile! I am an entry-level Data Engineering
 fresher with hands-on experience in Python, SQL, PySpark, Pandas,
