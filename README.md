@@ -1,5 +1,5 @@
 # Hi, I'm Pravallika 👋
-
+<img src="image.jpeg" width="150">
 ### Aspiring Data Engineer | Python | SQL | PySpark | AWS | Azure
 
 Welcome to my GitHub profile! I am an entry-level Data Engineering
