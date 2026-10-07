@@ -1,12 +1,14 @@
-# Hi, I'm Pravallika 👋
-```html
+# Welcome to my profile
 <table>
 <tr>
 <td width="180">
+
 <img src="image.jpeg" width="150">
+
 </td>
 
 <td>
+
 <h2>Hi, I'm Pravallika 👋</h2>
 
 <p>
@@ -14,10 +16,10 @@ Aspiring Data Engineer<br>
 Python | SQL | PySpark | AWS | Azure<br>
 Passionate about Data Engineering and Analytics
 </p>
+
 </td>
 </tr>
 </table>
-```
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering
